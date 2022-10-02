@@ -1,5 +1,5 @@
-//Success Quote by Frank Sinatra
-const successQuote = `"The best revenge is massive success"`;
-const authorName = `"Frank Sinatra"`;
+// Quote
+const quote = `"A person who never made a mistake never tried anything new."`;
+const authorName = `Albert Einstein`;
 
-console.log(`${authorName} said, ${successQuote}`);
+console.log(`${authorName} once said, ${quote}`);
