@@ -1,4 +1,4 @@
-// Quote
+// Famous Quote by Albert Einstein
 const quote = `"A person who never made a mistake never tried anything new."`;
 const authorName = `Albert Einstein`;
 
