@@ -1,4 +1,2 @@
 var favNum = `4`;
-var message = `${4}`;
-
-console.log(message);
+console.log("my birthday is on " + favNum, "september"); 
