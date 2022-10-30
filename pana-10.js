@@ -10,3 +10,4 @@ const quote = `"A person who never made a mistake did not tried anything new"`;
 console.log(`${author} once said, ${quote}`);
 
 `This tasks shows us how we can print a message who wrote that message`;
+
